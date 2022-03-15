@@ -13,5 +13,6 @@
 搭好FastDFS环境后，修改config.properties的相关配置，可直接启动运行项目，通过提供的接口访问，可使用Postman进行测试
 
 搭建环境的步骤可参考个人博客：[用FastDFS一步步搭建文件管理系统](http://www.cnblogs.com/chiangchou/p/fastdfs.html)
-
+### TestFastDFS.java
+- [docker 安装 FastDFS](https://blog.csdn.net/weixin_44533129/article/details/105981740)
 
